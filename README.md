@@ -22,7 +22,7 @@ Contribution
 
 
 Contribution of Script's framework
-<snowflake-1117>
+snowflake-1117
   - ObjectTrigger.cs
   - ObjectZoomIn.cs
   - ObjectZoomOut.cs
@@ -30,7 +30,7 @@ Contribution of Script's framework
   - TextBoxStart.cs
   - TextBoxTrigger.cs
   
-<lynring24>
+lynring24
   - CAM_Move.cs
   - ITEM.cs
   - ITEM_Database.cs
