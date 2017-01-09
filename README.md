@@ -8,7 +8,7 @@ For escape: Use items in right place or object, and solve questions
 How to play: Use only mouse left button click
 
 
-Contribution
+##Contribution
 - 3d objects: Use free 3d objects
 - Scripts: the code is written by lynring24 and snowflake-1117, but we refered to Unity documents, dev-Korea, and Google
 - Scenario: written by lynring24 and snowflake-1117
@@ -21,9 +21,8 @@ Contribution
   아티스트: http://incompetech.com/)
 
 
-Contribution of Script's framework
-
-snowflake-1117
+##Contribution of Script's framework
+###snowflake-1117
   - ObjectTrigger.cs
   - ObjectZoomIn.cs
   - ObjectZoomOut.cs
@@ -31,7 +30,7 @@ snowflake-1117
   - TextBoxStart.cs
   - TextBoxTrigger.cs
   
-lynring24
+###lynring24
   - CAM_Move.cs
   - ITEM.cs
   - ITEM_Database.cs
